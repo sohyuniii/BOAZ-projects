@@ -28,7 +28,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 
 ***Review Based Cosmetics Recommender System***
 - [Topic Modeling & Word Embedding on Cosmetics](https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics)
-
+ - [감정 분석을 이용한 협업적 영화 추천 방법](https://www.researchgate.net/publication/261842815_gamjeong_bunseog-eul_iyonghan_hyeob-eobjeog_yeonghwa_chucheon_bangbeob)
 
 
 
